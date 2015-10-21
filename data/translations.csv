@@ -1,5 +1,5 @@
 code,fr
-title,Positionement politique des conseillers nationaux: 2011 vs 2015
+title,Positionnement politique des conseillers nationaux: 2011 vs 2015
 descr,"Graphique basé sur les réponses des conseilers nationaux au questionnaire de smartvote.ch (184 et 186 réponses en 2011 et 2015 respectivement, sur un total de 200 conseillers nationaux). L'axe horizontal représente le clivage politique gauche/droite (questions de redistribution, d'organisation de l'Etat social, d'imposition du revenu et de la fortune, etc.). L'axe vertical montre les oppositions entre les points de vue conservateur et libéral-progressiste. La taille des cercles indique la variabilité des opinions à l'intérieur d'un parti."
 footer,swissinfo.ch | source: www.smartvote.ch
 lab.leftright,gauche    /    droite
@@ -11,5 +11,5 @@ party.SVP,Union démocratique du centre (UDC)
 party.glp,Vert'libéraux
 party.BDP,Parti bourgeois démocratique (PBD)
 party.Grüne,Les Verts
-title2,Positionement gauche / droite du Conseil national: 2011 vs 2015
+title2,Positionnement gauche / droite du Conseil national: 2011 vs 2015
 lab.freq,fréquence
